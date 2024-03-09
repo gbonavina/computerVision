@@ -1,1 +1,1 @@
-# computerVision
+# Computer Vision project
